@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "ConsoleApp2/1.0.0": {
+        "dependencies": {
+          "FFmpeg.AutoGen": "4.2.0"
+        },
+        "runtime": {
+          "ConsoleApp2.dll": {}
+        }
+      },
+      "FFmpeg.AutoGen/4.2.0": {
+        "runtime": {
+          "lib/netstandard2.0/FFmpeg.AutoGen.dll": {
+            "assemblyVersion": "4.2.0.0",
+            "fileVersion": "4.2.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsoleApp2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FFmpeg.AutoGen/4.2.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-xYVwmerbB0unhvA1tSp7bUPKuPjEWFCKJ+OlIQvfK1lObILHMKUKrxnzN33yTOCNMCTdm8+vkBZDfAtlHTt7rg==",
+      "path": "ffmpeg.autogen/4.2.0",
+      "hashPath": "ffmpeg.autogen.4.2.0.nupkg.sha512"
+    }
+  }
+}

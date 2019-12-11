@@ -1,0 +1,4 @@
+D:\01_works\01_Unity\01_UnityProjects\CloudRender5G\FFmpegTest\ConsoleApplication1\ConsoleApp1\bin\Debug\netcoreapp3.0\ConsoleApp1.exe
+D:\01_works\01_Unity\01_UnityProjects\CloudRender5G\FFmpegTest\ConsoleApplication1\ConsoleApp1\obj\Debug\netcoreapp3.0\ConsoleApp1.csprojAssemblyReference.cache
+D:\01_works\01_Unity\01_UnityProjects\CloudRender5G\FFmpegTest\ConsoleApplication1\ConsoleApp1\obj\Debug\netcoreapp3.0\ConsoleApp1.AssemblyInfoInputs.cache
+D:\01_works\01_Unity\01_UnityProjects\CloudRender5G\FFmpegTest\ConsoleApplication1\ConsoleApp1\obj\Debug\netcoreapp3.0\ConsoleApp1.AssemblyInfo.cs
